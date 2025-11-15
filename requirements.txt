@@ -1,0 +1,11 @@
+# Core dependencies for ComfyUI File Browser Node
+# Most dependencies are provided by ComfyUI itself
+
+# For enhanced file operations
+pathlib>=1.0.1
+
+# For async operations if needed
+aiofiles>=23.0.0
+
+# For better shell command execution
+psutil>=5.9.0
